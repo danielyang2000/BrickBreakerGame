@@ -3,6 +3,6 @@
 #### See BrickBreaker.pptx and BrickBreaker.pdf for more detail
 #### Source code not provided publicly but can be emailed to HR or recruiters if needed
 
-![Gameplay image](/assets/images/GamePic.png)
-![Circuit](/assets/images/Circuit.png)
+![Gameplay image](/images/GamePic.png)
+![Circuit](/images/Circuit.png)
 
